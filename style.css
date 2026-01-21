@@ -1,0 +1,42 @@
+.paragraph-1{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: justify;
+    line-height: 1.5;
+    color:chartreuse
+}
+
+.paragraph-2{
+    font-family: Verdana;
+}
+
+.paragraph-3{
+    font-family: Arial;
+    text-align:center;
+}
+
+.paragraph-4{
+    font-family: 'Gill Sans';
+    text-align:center;
+    line-height:1.5;
+}
+
+.paragraph-5{
+    font-family: Arial;
+    font-size: 26px;
+}
+
+.paragraph-6{
+    font-family: Georgia;
+}
+.paragraph-7{
+    font-family: sans-serif;
+    text-align:center;
+}
+.paragraph-8{
+    font-family: Georgia;
+    text-align:center;
+}
+.paragraph-9{
+    font-family: Verdana;
+}
